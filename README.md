@@ -1,4 +1,4 @@
-The source code of our manuscript submitted to IEEE Conference on Computer Vision and Pattern Recognition:
+The source code of our manuscript submitted to IEEE Transactions on Image Processing:
 
 A Multi-scale Spatiotemporal Network for Real-time Video Saliency Detection  
 ===
