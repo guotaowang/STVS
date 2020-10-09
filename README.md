@@ -1,6 +1,6 @@
 The source code of our manuscript submitted to IEEE Transactions on Image Processing:
 
-A Multi-scale Spatiotemporal Network for Real-time Video Saliency Detection  
+Exploring Rich and Efficient Spatial Temporal Interactions for Real Time Video Salient Object Detection  
 ===
 
 Prerequisites:
