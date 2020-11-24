@@ -15,14 +15,14 @@ import joint_transforms
 from config import sbu_training_root
 from dataset import ImageFolder
 from misc import AvgMeter, check_mkdir
-from model import BDRAR
+from model import STRM
 
 # cudnn.benchmark = True
 
 torch.cuda.set_device(0)
 
 ckpt_path = 'ckpt\\'
-exp_name = 'BDRAR'
+exp_name = 'STRM'
 writer = SummaryWriter()
 
 # batch size of 8 with resolution of 416*416 is exactly OK for the GTX 1080Ti GPU
@@ -60,7 +60,7 @@ log_path = os.path.join(ckpt_path, exp_name, str(datetime.datetime.now()) + '.tx
 
 
 def main():
-    net = BDRAR().cuda().train()
+    net = STRM().cuda().train()
 
     optimizer = optim.SGD([
         {'params': [param for name, param in net.named_parameters() if name[-4:] == 'bias'],
