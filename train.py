@@ -71,7 +71,7 @@ def main():
 
     if len(args['snapshot']) > 0:
         print('training resumes from \'%s\'' % args['snapshot'])
-        net.load_state_dict(torch.load(os.path.join(ckpt_path, exp_name, args['snapshot'] + '17000add.pth')))
+        net.load_state_dict(torch.load(os.path.join(ckpt_path, exp_name, args['snapshot'] + '17000.pth')))
         # optimizer.load_state_dict(torch.load(os.path.join(ckpt_path, exp_name, args['snapshot'] + '_optim.pth')))
         # optimizer.param_groups[0]['lr'] = 2 * args['lr']
         # optimizer.param_groups[1]['lr'] = args['lr']
