@@ -17,6 +17,7 @@ SaliencyMaps:
 ---
 All results on Davis-T, SegTrack-V2, Visal, FBMS-T and DAVSOD-T datasets of our method are availabled from
 baidu cloud: https://pan.baidu.com/s/1J9yYBeMXmaUvGQ1aAbBUYA, extraction: 45gi.  
+Results on VOS-test dataset:https://pan.baidu.com/s/1FbqHNlqP07BL5k0sg4Wyaw, extraction: 16ep. 
 
 TrainedModel:  
 ---
