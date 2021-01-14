@@ -31,4 +31,9 @@ a. Please first download the model.
 b. Please put test images under .\DataSet\.  
 d. Please put the model under folder .\model\.  
 e. Run demo.py.  
-f. Results can be found in .\resutls\.  
+f. Results can be found in .\resutls\. 
+
+Training:
+---
+1. Using the entire training set to pretrain the spatial branch.
+2. Finetuing the whole spatiotemporal model using all training set.
