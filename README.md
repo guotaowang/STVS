@@ -23,6 +23,7 @@ TrainedModel:
 ---
 You can download the trained model from baidu cloud: https://pan.baidu.com/s/16wPfMNPjDlnwWx4xuM8R3Q,  
 extraction: 7w7p.  
+The pretrained model of resnetx101:https://pan.baidu.com/s/1BPk3-OTIl0gmgKKUnaRLTA, extraction:7p4x.
 
 Usage:
 ---
