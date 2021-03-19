@@ -7,6 +7,7 @@ Prerequisites:
 ---
 * CUDA v8.0, cudnn v7.0
 * python 3.5
+* Matlab R2016b
 * pytorch 0.4.1
 * torchvision
 * numpy
