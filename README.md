@@ -15,7 +15,7 @@ Note:
 1. The code is mainly for the second overhaul of the paper.    
 2. The training data needs to be enhanced (Interval 2, 3, 4, 5; Rotation; Mirroring; Gaussian noise; Lighting changes; Scale changes, etc.)  
 
-###
+****
 The source code of our manuscript submitted to IEEE Transactions on Image Processing(V1):   
 
 Exploring Rich and Efficient Spatial Temporal Interactions for Real Time Video Salient Object Detection   
