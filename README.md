@@ -1,8 +1,17 @@
-The source code of our manuscript submitted to IEEE Transactions on Image Processing:
-
+The source code of our paper of IEEE Transactions on Image Processing(V2):
 Exploring Rich and Efficient Spatial Temporal Interactions for Real Time Video Salient Object Detection  
-===
+===  
+Update:  
+---  
+Because the code of V1 is relatively long to upload,   
+we re-implemented STVS based on the BBSNet and uploaded it to Baidu Cloud Disk.   
 
+link：https://pan.baidu.com/s/1tneKPmyvmMBPyv_meZmeiQ   
+code：3dqb   
+
+The source code of our manuscript submitted to IEEE Transactions on Image Processing(V1): 
+Exploring Rich and Efficient Spatial Temporal Interactions for Real Time Video Salient Object Detection   
+===
 Prerequisites:
 ---
 * CUDA v8.0, cudnn v7.0
