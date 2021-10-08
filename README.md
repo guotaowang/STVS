@@ -14,6 +14,7 @@ Note:
 ---  
 1. The code is mainly for the second overhaul of the paper.    
 2. The training data needs to be enhanced (Interval 2, 3, 4, 5; Rotation; Mirroring; Gaussian noise; Lighting changes; Scale changes, etc.)  
+3. At present, there is another way to realize that 3 frames of images correspond to 3 outputs, and then sum of the losses of the 3 frames.(still in progress)  
 
 ****
 The source code of our manuscript submitted to IEEE Transactions on Image Processing(V1):   
