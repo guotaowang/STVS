@@ -21,6 +21,10 @@ The source code of our manuscript submitted to IEEE Transactions on Image Proces
 
 Exploring Rich and Efficient Spatial Temporal Interactions for Real Time Video Salient Object Detection   
 ===
+
+link: https://pan.baidu.com/s/1DzSTCFCwLmJ2BT0q104TXg 
+code：5abn
+
 Prerequisites:
 ---
 * CUDA v8.0, cudnn v7.0
